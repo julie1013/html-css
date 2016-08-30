@@ -1,0 +1,56 @@
+
+body{
+  font-family: arial;
+  text-align: center;
+}
+
+h1{
+  color: #954535;
+  font-family: cursive;
+}
+
+.center {
+  margin: 0 auto;
+  text-align: left;
+  width: 200px;
+}
+
+.butter {
+  color: #ffff00;
+}
+
+.bsugar, .chips {
+  color: #663300;
+}
+
+.gsugar {
+  color: #0000ff;
+}
+
+.powder {
+  color: 	#008000;
+}
+
+.milk {
+  color: #800080;
+}
+
+.vanilla {
+  color: #FFC0CB;
+}
+
+.eggs {
+  color: #FFA500;
+}
+
+.flour {
+  color: 	#C0C0C0;
+}
+
+.baking-soda {
+  color: #EEE8AA;
+}
+
+.salt  {
+  color: #556B2F;
+}
